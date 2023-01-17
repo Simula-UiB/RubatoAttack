@@ -1,3 +1,7 @@
+<p align="center">
+    <a href="https://github.com/Simula-UiB/CryptaPath/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+</p>
+
 ## Licence
 Rubato Attack is licensed under the MIT License.
 
