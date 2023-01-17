@@ -1,3 +1,8 @@
+## Licence
+Rubato Attack is licensed under the MIT License.
+
+* MIT license ([LICENSE](../LICENSE) or http://opensource.org/licenses/MIT)
+
 # Rubato Attack
 This repository contains code written in C for testing an attack on the Rubato cipher with weak values of the modulus q.  The code depends on the DGS library (https://github.com/malb/dgs), which needs to be installed first to compile the program.  Assuming the DGS library is installed, the program testing the attack is built simply by compiling testAttack.c, making sure rubato.h and attack.h exist in the same folder.
 
